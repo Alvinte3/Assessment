@@ -1,0 +1,16 @@
+
+.heading{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: large;
+}
+aside{
+    content: "";
+  display: table;
+  clear: both;
+}
+section{
+    float: left;
+  padding: 20px;
+  width: 70%;
+}
