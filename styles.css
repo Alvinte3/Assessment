@@ -1,7 +1,9 @@
+body{
+    font-family: sans-serif;
+}
 
 .heading{
     text-align: center;
-    font-family: sans-serif;
     font-size: large;
 }
 aside{
@@ -13,4 +15,10 @@ section{
     float: left;
   padding: 20px;
   width: 70%;
+}
+marquee{
+    color:blue ;
+}
+.pics{
+    text-align: center;
 }
