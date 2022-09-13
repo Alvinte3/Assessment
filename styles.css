@@ -1,5 +1,7 @@
 body{
     font-family: sans-serif;
+    color: cornsilk;
+    text-align: center;
 }
 
 .heading{
@@ -21,4 +23,10 @@ marquee{
 }
 .pics{
     text-align: center;
+}
+.text{
+    vertical-align: middle;
+}
+.video{
+    align-items: center;
 }
