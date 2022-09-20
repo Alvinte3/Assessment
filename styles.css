@@ -27,6 +27,6 @@ marquee{
 .text{
     vertical-align: middle;
 }
-.video{
-    align-items: center;
+.list{
+    text-align: left;
 }
